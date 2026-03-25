@@ -24,7 +24,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 
 ## Contents
  
-- [Web Scraping](#web-scraping)
+- [Web Data Extraction](#web-data-extraction)
 - [AI Agents and Automation](#ai-agents-and-automation)
 - [Language Bindings and Drivers](#language-bindings-and-drivers)
 - [Resources](#resources)
